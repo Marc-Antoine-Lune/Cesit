@@ -194,8 +194,12 @@ img{
 
 .presentazioneImage{
 grid-area: image-2;
+margin-left: 10%;
 
+}
 
+.presentazioneImg{
+    width: 100%;
 }
 
 .mettudu{
