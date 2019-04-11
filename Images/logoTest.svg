@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="201.68623mm"
+   height="53.665508mm"
+   viewBox="0 0 201.68623 53.665508"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logoTest.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3723">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3719" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3721" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3723"
+       id="linearGradient3725"
+       x1="93.590973"
+       y1="108.48579"
+       x2="117.46056"
+       y2="182.87009"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5028499,0,0,0.47920235,-35.851242,31.078458)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.84257989"
+     inkscape:cx="646.36799"
+     inkscape:cy="66.348758"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.5744275,-67.186218)">
+    <path
+       style="fill:url(#linearGradient3725);fill-opacity:1;stroke:#000000;stroke-width:0.12987965px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 23.076968,67.187023 23.73908,120.60978 1.6685908,83.38211 22.635556,74.758752"
+       id="path3717"
+       inkscape:connector-curvature="0"
+       clip-path="none" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3727"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion3729"><rect
+           id="rect3731"
+           width="596.97601"
+           height="375.0386"
+           x="186.33247"
+           y="302.4194" /></flowRegion><flowPara
+         id="flowPara3733"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3735"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion3737"><rect
+           id="rect3739"
+           width="691.34113"
+           height="202.77225"
+           x="87.220039"
+           y="253.93521" /></flowRegion><flowPara
+         id="flowPara3741"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.75004768px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35825953"
+       x="28.93364"
+       y="87.982361"
+       id="text3745"
+       transform="scale(0.83088333,1.2035384)"
+       clip-path="none"><tspan
+         sodipodi:role="line"
+         id="tspan3743"
+         x="28.93364"
+         y="87.982361"
+         style="font-size:26.75004768px;stroke-width:0.35825953">CESIT CORSICA</tspan></text>
+  </g>
+</svg>
